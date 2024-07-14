@@ -1,1 +1,1 @@
-# Shortest-path-finder
+# Shortest-path-finder using dijkstra algorithm
